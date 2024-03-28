@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mixxsuuh
+- 👋 Hi, I’m Suzana Rocha
 - 👀 I’m interested in desenvolvedor de front-end
 - 🌱 I’m currently learning engenharia de computação
 - 💞️ I’m looking to collaborate on estagios, programação
