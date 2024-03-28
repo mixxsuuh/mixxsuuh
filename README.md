@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suzana Rocha
-- 👀 I’m interested in desenvolvedor de front-end
+- 👀 I’m interested in programação
 - 🌱 I’m currently learning engenharia de computação
 - 💞️ I’m looking to collaborate on estagios, programação
 - 📫 How to reach me - 11937188563
